@@ -2,6 +2,8 @@
 
 ## _Machine learning from disaster_
 
+![image](https://github.com/g3rley/titanic/assets/96620547/2dd6bdac-46f6-4659-b7f0-7db242bd4ef5)
+
 This repository contains the code and related files for the "Titanic: Machine Learning from Disaster" project on Kaggle. The goal of the project is to create a machine learning model that predicts whether a passenger survived the Titanic shipwreck or not.
 
 
