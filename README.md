@@ -42,6 +42,28 @@ Some children travelled only with a nanny, therefore parch=0 for them.
 **Embarked**: Port of Embarkation
 C = Cherbourg, Q = Queenstown, S = Southampton
 
+**Survival**: 0 = No, 1 = Yes
+
+### Evaluation
+
+The evaluation metric for this competition is accuracy, a metric that measures the percentage of passengers correctly predicted.
+
+### Submission File Format
+
+You should submit a csv file with exactly 418 entries plus a header row. Your submission will show an error if you have extra columns (beyond PassengerId and Survived) or rows.
+
+The file should have exactly 2 columns:
+
+* PassengerId (sorted in any order)
+* Survived (contains your binary predictions: 1 for survived, 0 for deceased)
+
+``` sh
+PassengerId,Survived
+ 892,0
+ 893,1
+ 894,0
+```
+
 ### Usage
 
 Clone the repository to your local environment:
@@ -60,6 +82,26 @@ pip install -r requirements.txt
 Run the **titanic.ipynb** Jupyter Notebook to explore the data, create and evaluate the model.
 
 Export the final model predictions to the **submission.csv** file.
+
+### Built With
+
+* [Python](https://www.python.org/) - Programming language
+* [Jupyter Notebook](https://jupyter.org/) - Web application for creating and sharing documents that contain live code, equations, visualizations and narrative text
+* [Pandas](https://pandas.pydata.org/) - Data analysis and manipulation tool
+* [NumPy](https://numpy.org/) - Library for working with arrays
+* [Matplotlib](https://matplotlib.org/) - Library for creating static, animated, and interactive visualizations
+* [Seaborn](https://seaborn.pydata.org/) - Data visualization library based on matplotlib
+* [Scikit-learn](https://scikit-learn.org/stable/) - Machine learning library for the Python programming language
+
+
+### Authors
+
+* **Gerley Adriano** - [g3rley](https://github.com/g3rley)
+
+### Acknowledgments
+
+* [Kaggle](https://www.kaggle.com/c/titanic/overview)
+
 
 ### License
 
