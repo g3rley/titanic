@@ -6,19 +6,17 @@
 
 This repository contains the code and related files for the "Titanic: Machine Learning from Disaster" project on Kaggle. The goal of the project is to create a machine learning model that predicts whether a passenger survived the Titanic shipwreck or not.
 
-
 ### Competition Description
 
-The sinking of the RMS Titanic is one of the most infamous shipwrecks in history.  On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew.  This sensational tragedy shocked the international community and led to better safety regulations for ships.
+The sinking of the RMS Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, resulting in the loss of 1502 out of 2224 passengers and crew. This tragic event shocked the international community and led to the implementation of improved safety regulations for ships.
 
 ### Goal
 
-In this challenge, we ask you to complete the analysis of what sorts of people were likely to survive. In particular, we ask you to apply the tools of machine learning to predict which passengers survived the tragedy.
+The challenge is to analyze the characteristics of the passengers and develop a machine learning model that can predict the likelihood of survival. By applying the tools of machine learning, we aim to predict which passengers survived the tragedy.
 
 ### Data
 
-We provide two datasets: a training set (`train.csv`) and a test set (`test.csv`).
-
+The repository provides two datasets: a training set (train.csv) and a test set (test.csv).
 
 ### Variable Notes
 
@@ -46,11 +44,11 @@ C = Cherbourg, Q = Queenstown, S = Southampton
 
 ### Evaluation
 
-The evaluation metric for this competition is accuracy, a metric that measures the percentage of passengers correctly predicted.
+The evaluation metric for this competition is accuracy, which measures the percentage of correctly predicted passengers.
 
 ### Submission File Format
 
-You should submit a csv file with exactly 418 entries plus a header row. Your submission will show an error if you have extra columns (beyond PassengerId and Survived) or rows.
+You should submit a CSV file with exactly 418 entries plus a header row. Your submission will show an error if you have extra columns (beyond PassengerId and Survived) or rows.
 
 The file should have exactly 2 columns:
 
