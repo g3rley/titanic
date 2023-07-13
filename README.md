@@ -8,7 +8,7 @@ This repository contains the code and related files for the "Titanic: Machine Le
 
 ### Competition Description
 
-The sinking of the RMS Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, resulting in the loss of 1502 out of 2224 passengers and crew. This tragic event shocked the international community and led to the implementation of improved safety regulations for ships.
+The sinking of the RMS Titanic remains an indelible mark on maritime history, standing as one of the most notorious shipwrecks to date. On the fateful day of April 15, 1912, during its inaugural journey, the Titanic met its demise when it struck an iceberg, leading to the devastating loss of 1502 lives out of the 2224 passengers and crew aboard. This heartrending incident reverberated across the globe, prompting the international community to enforce stringent safety measures for all future vessels.
 
 ### Goal
 
